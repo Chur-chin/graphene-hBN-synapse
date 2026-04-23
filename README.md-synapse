@@ -1,0 +1,14 @@
+# graphene-hBN-synapse
+
+**THz Polarization-Controlled Synaptic Plasticity in Graphene / h-BN Heterostructures**
+
+Simulation code for a biologically inspired artificial synapse based on:
+- **Graphene** — tunable Dirac plasmon channel (gate-controlled conductance)
+- **h-BN** — hyperbolic phonon-polariton (PhP) medium (Reststrahlen bands I & II)
+- **THz polarization** — E-field angle θ selectively excites PhP modes → modulates graphene carrier density → synaptic weight update
+
+---
+
+## Physical Mechanism
+
+```
